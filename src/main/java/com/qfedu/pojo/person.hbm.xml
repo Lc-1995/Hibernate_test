@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.qfedu.pojo">
+    <class name="Person" table="person">
+        <id name="id">
+            <generator class="native"></generator>
+        </id>
+        <property name="name"></property>
+
+        <!--一对一关系-->
+        <one-to-one name="idCard" class="IdCard" cascade="save-update,delete"></one-to-one>
+    </class>
+</hibernate-mapping>

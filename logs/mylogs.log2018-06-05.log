@@ -1,0 +1,906 @@
+2018-06-0500:00:21[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0500:00:21[org.hibernate.cfg.Environment][main:41]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0500:00:22[org.hibernate.annotations.common.Version][main:570]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0500:00:24[org.hibernate.orm.connections.pooling][main:2819]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0500:00:24[org.hibernate.orm.connections.pooling][main:2833]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0500:00:24[org.hibernate.orm.connections.pooling][main:2834]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0500:00:24[org.hibernate.orm.connections.pooling][main:2834]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0500:00:24[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2841]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0500:00:25[org.hibernate.dialect.Dialect][main:3613]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0500:00:26[org.hibernate.orm.connections.access][main:5097]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0500:00:27[com.qfedu.pojo.UserOrderTest][main:5560]-[INFO]SimpleOrder{id=19, orderNum='001', productName='Java'}
+2018-06-0500:02:12[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0500:02:12[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0500:02:13[org.hibernate.annotations.common.Version][main:515]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0500:02:15[org.hibernate.orm.connections.pooling][main:2812]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0500:02:15[org.hibernate.orm.connections.pooling][main:2825]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0500:02:15[org.hibernate.orm.connections.pooling][main:2826]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0500:02:15[org.hibernate.orm.connections.pooling][main:2827]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0500:02:15[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2834]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0500:02:16[org.hibernate.dialect.Dialect][main:3582]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0500:02:17[org.hibernate.orm.connections.access][main:5080]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0500:02:18[com.qfedu.pojo.UserOrderTest][main:5482]-[INFO]SimpleOrder{id=19, orderNum='001', productName='Java'}
+2018-06-0500:02:43[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0500:02:43[org.hibernate.cfg.Environment][main:11]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0500:02:44[org.hibernate.annotations.common.Version][main:538]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0500:02:46[org.hibernate.orm.connections.pooling][main:2760]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0500:02:46[org.hibernate.orm.connections.pooling][main:2773]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0500:02:46[org.hibernate.orm.connections.pooling][main:2774]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0500:02:46[org.hibernate.orm.connections.pooling][main:2775]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0500:02:46[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2783]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0500:02:47[org.hibernate.dialect.Dialect][main:3479]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0500:02:48[org.hibernate.orm.connections.access][main:5054]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@50b8ae8d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0500:02:49[com.qfedu.pojo.UserOrderTest][main:5426]-[INFO]SimpleOrder{id=19, orderNum='001', productName='Java'}
+2018-06-0500:03:28[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0500:03:28[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0500:03:28[org.hibernate.annotations.common.Version][main:538]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0500:03:31[org.hibernate.orm.connections.pooling][main:2798]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0500:03:31[org.hibernate.orm.connections.pooling][main:2811]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0500:03:31[org.hibernate.orm.connections.pooling][main:2812]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0500:03:31[org.hibernate.orm.connections.pooling][main:2812]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0500:03:31[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2818]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0500:03:31[org.hibernate.dialect.Dialect][main:3564]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0500:03:33[org.hibernate.orm.connections.access][main:5074]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@50b8ae8d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0500:03:33[com.qfedu.pojo.UserOrderTest][main:5479]-[INFO]SimpleOrder{id=19, orderNum='001', productName='Java'}
+2018-06-0500:03:33[org.hibernate.orm.connections.pooling][main:5495]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0500:03:56[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0500:03:56[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0500:03:57[org.hibernate.annotations.common.Version][main:543]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0500:03:59[org.hibernate.orm.connections.pooling][main:2826]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0500:03:59[org.hibernate.orm.connections.pooling][main:2838]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0500:03:59[org.hibernate.orm.connections.pooling][main:2839]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0500:03:59[org.hibernate.orm.connections.pooling][main:2840]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0500:03:59[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2846]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0500:04:00[org.hibernate.dialect.Dialect][main:3632]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0500:04:02[org.hibernate.orm.connections.access][main:5139]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0500:04:02[com.qfedu.pojo.UserOrderTest][main:5538]-[INFO]SimpleOrder{id=19, orderNum='001', productName='Java'}
+2018-06-0500:04:02[org.hibernate.orm.connections.pooling][main:5552]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:04:01[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:04:01[org.hibernate.cfg.Environment][main:8]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:04:02[org.hibernate.annotations.common.Version][main:1527]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:04:05[org.hibernate.orm.connections.pooling][main:4147]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:04:05[org.hibernate.orm.connections.pooling][main:4188]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:04:05[org.hibernate.orm.connections.pooling][main:4189]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:04:05[org.hibernate.orm.connections.pooling][main:4189]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:04:05[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:4196]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:04:06[org.hibernate.dialect.Dialect][main:5263]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:04:09[org.hibernate.orm.connections.access][main:8001]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d1310f6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:04:09[org.hibernate.engine.jdbc.spi.SqlExceptionHelper][main:8870]-[WARN]SQL Error: 1054, SQLState: 42S22
+2018-06-0509:04:09[org.hibernate.engine.jdbc.spi.SqlExceptionHelper][main:8871]-[ERROR]Unknown column 'o.roductName' in 'field list'
+2018-06-0509:05:12[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:05:12[org.hibernate.cfg.Environment][main:8]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:05:13[org.hibernate.annotations.common.Version][main:539]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:05:15[org.hibernate.orm.connections.pooling][main:2929]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:05:15[org.hibernate.orm.connections.pooling][main:2941]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:05:15[org.hibernate.orm.connections.pooling][main:2943]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:05:15[org.hibernate.orm.connections.pooling][main:2943]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:05:15[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2949]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:05:16[org.hibernate.dialect.Dialect][main:3608]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:05:17[org.hibernate.orm.connections.access][main:5226]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d1310f6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:05:18[org.hibernate.engine.jdbc.spi.SqlExceptionHelper][main:5678]-[WARN]SQL Error: 1064, SQLState: 42000
+2018-06-0509:05:18[org.hibernate.engine.jdbc.spi.SqlExceptionHelper][main:5679]-[ERROR]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2018-06-0509:06:23[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:06:23[org.hibernate.cfg.Environment][main:9]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:06:24[org.hibernate.annotations.common.Version][main:541]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:06:26[org.hibernate.orm.connections.pooling][main:2874]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:06:26[org.hibernate.orm.connections.pooling][main:2887]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:06:26[org.hibernate.orm.connections.pooling][main:2888]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:06:26[org.hibernate.orm.connections.pooling][main:2889]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:06:26[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2895]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:06:27[org.hibernate.dialect.Dialect][main:3599]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:06:28[org.hibernate.orm.connections.access][main:5093]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d1310f6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:06:29[org.hibernate.engine.jdbc.spi.SqlExceptionHelper][main:5504]-[WARN]SQL Error: 1064, SQLState: 42000
+2018-06-0509:06:29[org.hibernate.engine.jdbc.spi.SqlExceptionHelper][main:5504]-[ERROR]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2018-06-0509:09:34[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:09:34[org.hibernate.cfg.Environment][main:9]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:09:35[org.hibernate.annotations.common.Version][main:551]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:09:37[org.hibernate.orm.connections.pooling][main:2711]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:09:37[org.hibernate.orm.connections.pooling][main:2724]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:09:37[org.hibernate.orm.connections.pooling][main:2724]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:09:37[org.hibernate.orm.connections.pooling][main:2725]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:09:37[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2731]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:09:38[org.hibernate.dialect.Dialect][main:3350]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:09:39[org.hibernate.orm.connections.access][main:4929]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d1310f6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:09:40[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5323]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0509:12:46[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:12:46[org.hibernate.cfg.Environment][main:8]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:12:46[org.hibernate.annotations.common.Version][main:497]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:12:48[org.hibernate.orm.connections.pooling][main:2672]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:12:48[org.hibernate.orm.connections.pooling][main:2687]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:12:48[org.hibernate.orm.connections.pooling][main:2688]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:12:48[org.hibernate.orm.connections.pooling][main:2688]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:12:48[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2695]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:12:49[org.hibernate.dialect.Dialect][main:3311]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:12:50[org.hibernate.orm.connections.access][main:4887]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d1310f6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:12:51[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5205]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0509:19:14[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:19:14[org.hibernate.cfg.Environment][main:10]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:19:14[org.hibernate.annotations.common.Version][main:510]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:19:17[org.hibernate.orm.connections.pooling][main:2949]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:19:17[org.hibernate.orm.connections.pooling][main:2962]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:19:17[org.hibernate.orm.connections.pooling][main:2963]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:19:17[org.hibernate.orm.connections.pooling][main:2964]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:19:17[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2970]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:19:18[org.hibernate.dialect.Dialect][main:3635]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:19:19[org.hibernate.orm.connections.access][main:5250]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d1310f6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5677]-[INFO][Java, 小黄]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5677]-[INFO][Web, 小黄]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5678]-[INFO][Java开发, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5678]-[INFO][Web开发, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5694]-[INFO][Java测试, 小白]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5695]-[INFO][Web测试, 小白]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5696]-[INFO][JavaEE测试, 小白]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5697]-[INFO][Web第一课, 小白]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5697]-[INFO][JavaEE第一天, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5697]-[INFO][Web第二课, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5697]-[INFO][JavaEE第二天, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5697]-[INFO][Web第三课, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5698]-[INFO][JavaEE第二天, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5698]-[INFO][Web第三课, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5698]-[INFO][JavaEE第二天, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5698]-[INFO][Web第三课, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5699]-[INFO][JavaEE第二天, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5699]-[INFO][Web第三课, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5699]-[INFO][JavaEE第二天, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5699]-[INFO][Web第三课, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5699]-[INFO][JavaEE第二天, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5700]-[INFO][Web第三课, 小橙]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5700]-[INFO][Web第四课, 小彩]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5700]-[INFO][JavaEE第三天, 小彩]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5700]-[INFO][Web第四课, null]
+2018-06-0509:19:20[com.qfedu.pojo.QueryTest][main:5701]-[INFO][JavaEE第三天, null]
+2018-06-0509:27:59[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:27:59[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:27:59[org.hibernate.annotations.common.Version][main:510]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:28:01[org.hibernate.orm.connections.pooling][main:2583]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:28:01[org.hibernate.orm.connections.pooling][main:2595]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:28:01[org.hibernate.orm.connections.pooling][main:2596]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:28:01[org.hibernate.orm.connections.pooling][main:2597]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:28:01[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2603]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:28:02[org.hibernate.dialect.Dialect][main:3232]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:28:04[org.hibernate.orm.connections.access][main:4805]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:28:04[com.qfedu.pojo.SQLTest][main:5250]-[INFO][[Ljava.lang.Object;@30cdae70, [Ljava.lang.Object;@1654a892, [Ljava.lang.Object;@2577d6c8, [Ljava.lang.Object;@3163987e, [Ljava.lang.Object;@6c000e0c, [Ljava.lang.Object;@5f233b26, [Ljava.lang.Object;@44f9779c, [Ljava.lang.Object;@6974a715, [Ljava.lang.Object;@5e8a459, [Ljava.lang.Object;@43d455c9, [Ljava.lang.Object;@4c9e9fb8, [Ljava.lang.Object;@9ec531, [Ljava.lang.Object;@40147317, [Ljava.lang.Object;@210f0cc1, [Ljava.lang.Object;@19542407, [Ljava.lang.Object;@6f95cd51, [Ljava.lang.Object;@c7a977f, [Ljava.lang.Object;@55caeb35, [Ljava.lang.Object;@6d868997, [Ljava.lang.Object;@2c383e33, [Ljava.lang.Object;@74a195a4, [Ljava.lang.Object;@76304b46, [Ljava.lang.Object;@2fa3be26, [Ljava.lang.Object;@4287d447, [Ljava.lang.Object;@3af37506, [Ljava.lang.Object;@4e6d7365]
+2018-06-0509:30:57[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:30:57[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:30:58[org.hibernate.annotations.common.Version][main:521]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:31:00[org.hibernate.orm.connections.pooling][main:2871]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:31:00[org.hibernate.orm.connections.pooling][main:2883]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:31:00[org.hibernate.orm.connections.pooling][main:2884]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:31:00[org.hibernate.orm.connections.pooling][main:2885]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:31:00[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2891]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:31:01[org.hibernate.dialect.Dialect][main:3516]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:31:02[org.hibernate.orm.connections.access][main:5089]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5506]-[INFO][001, Java]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5506]-[INFO][002, Web]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5506]-[INFO][003, Java开发]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5507]-[INFO][004, Web开发]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5507]-[INFO][005, Java测试]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5507]-[INFO][006, Web测试]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5509]-[INFO][007, JavaEE测试]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5509]-[INFO][008, Web第一课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5509]-[INFO][007, JavaEE第一天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5509]-[INFO][008, Web第二课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5510]-[INFO][007, JavaEE第二天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5510]-[INFO][008, Web第三课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5510]-[INFO][007, JavaEE第二天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5510]-[INFO][008, Web第三课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5511]-[INFO][009, JavaEE第二天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5511]-[INFO][010, Web第三课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5511]-[INFO][009, JavaEE第二天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5511]-[INFO][010, Web第三课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5511]-[INFO][009, JavaEE第二天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5512]-[INFO][010, Web第三课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5512]-[INFO][009, JavaEE第二天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5512]-[INFO][010, Web第三课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5512]-[INFO][010, Web第四课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5513]-[INFO][009, JavaEE第三天]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5513]-[INFO][010, Web第四课]
+2018-06-0509:31:03[com.qfedu.pojo.SQLTest][main:5513]-[INFO][009, JavaEE第三天]
+2018-06-0509:31:56[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:31:56[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:31:57[org.hibernate.annotations.common.Version][main:664]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:31:59[org.hibernate.orm.connections.pooling][main:3094]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:31:59[org.hibernate.orm.connections.pooling][main:3106]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:31:59[org.hibernate.orm.connections.pooling][main:3107]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:31:59[org.hibernate.orm.connections.pooling][main:3108]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:31:59[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3114]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:32:00[org.hibernate.dialect.Dialect][main:3855]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:32:02[org.hibernate.orm.connections.access][main:5357]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:33:49[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:33:49[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:33:50[org.hibernate.annotations.common.Version][main:555]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:33:52[org.hibernate.orm.connections.pooling][main:2836]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:33:52[org.hibernate.orm.connections.pooling][main:2848]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:33:52[org.hibernate.orm.connections.pooling][main:2849]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:33:52[org.hibernate.orm.connections.pooling][main:2849]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:33:52[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2855]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:33:53[org.hibernate.dialect.Dialect][main:3542]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:33:54[org.hibernate.orm.connections.access][main:5080]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5482]-[INFO][Ljava.lang.Object;@2c30b71f
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5483]-[INFO][Ljava.lang.Object;@1d81e101
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5483]-[INFO][Ljava.lang.Object;@ec50f54
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5483]-[INFO][Ljava.lang.Object;@bf71cec
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5484]-[INFO][Ljava.lang.Object;@22d6cac2
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5484]-[INFO][Ljava.lang.Object;@6c000e0c
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5485]-[INFO][Ljava.lang.Object;@5f233b26
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5486]-[INFO][Ljava.lang.Object;@44f9779c
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5486]-[INFO][Ljava.lang.Object;@6974a715
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5486]-[INFO][Ljava.lang.Object;@5e8a459
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5486]-[INFO][Ljava.lang.Object;@43d455c9
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5487]-[INFO][Ljava.lang.Object;@4c9e9fb8
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5487]-[INFO][Ljava.lang.Object;@9ec531
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5487]-[INFO][Ljava.lang.Object;@40147317
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5487]-[INFO][Ljava.lang.Object;@210f0cc1
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5488]-[INFO][Ljava.lang.Object;@19542407
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5488]-[INFO][Ljava.lang.Object;@6f95cd51
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5488]-[INFO][Ljava.lang.Object;@c7a977f
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5488]-[INFO][Ljava.lang.Object;@55caeb35
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5489]-[INFO][Ljava.lang.Object;@6d868997
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5489]-[INFO][Ljava.lang.Object;@2c383e33
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5489]-[INFO][Ljava.lang.Object;@74a195a4
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5489]-[INFO][Ljava.lang.Object;@76304b46
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5490]-[INFO][Ljava.lang.Object;@2fa3be26
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5490]-[INFO][Ljava.lang.Object;@4287d447
+2018-06-0509:33:55[com.qfedu.pojo.SQLTest][main:5490]-[INFO][Ljava.lang.Object;@3af37506
+2018-06-0509:34:22[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:34:22[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:34:23[org.hibernate.annotations.common.Version][main:497]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:34:25[org.hibernate.orm.connections.pooling][main:2961]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:34:25[org.hibernate.orm.connections.pooling][main:2974]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:34:25[org.hibernate.orm.connections.pooling][main:2975]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:34:25[org.hibernate.orm.connections.pooling][main:2976]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:34:25[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2982]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:34:26[org.hibernate.dialect.Dialect][main:3777]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:34:28[org.hibernate.orm.connections.access][main:5286]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5690]-[INFO][001, Java]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5690]-[INFO][002, Web]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5690]-[INFO][003, Java开发]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5691]-[INFO][004, Web开发]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5691]-[INFO][005, Java测试]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5691]-[INFO][006, Web测试]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5693]-[INFO][007, JavaEE测试]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5693]-[INFO][008, Web第一课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5693]-[INFO][007, JavaEE第一天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5693]-[INFO][008, Web第二课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5694]-[INFO][007, JavaEE第二天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5694]-[INFO][008, Web第三课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5694]-[INFO][007, JavaEE第二天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5694]-[INFO][008, Web第三课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5695]-[INFO][009, JavaEE第二天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5695]-[INFO][010, Web第三课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5695]-[INFO][009, JavaEE第二天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5695]-[INFO][010, Web第三课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5696]-[INFO][009, JavaEE第二天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5696]-[INFO][010, Web第三课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5696]-[INFO][009, JavaEE第二天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5696]-[INFO][010, Web第三课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5697]-[INFO][010, Web第四课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5697]-[INFO][009, JavaEE第三天]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5697]-[INFO][010, Web第四课]
+2018-06-0509:34:28[com.qfedu.pojo.SQLTest][main:5697]-[INFO][009, JavaEE第三天]
+2018-06-0509:40:35[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:40:35[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:40:35[org.hibernate.annotations.common.Version][main:559]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:40:38[org.hibernate.orm.connections.pooling][main:3193]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:40:38[org.hibernate.orm.connections.pooling][main:3206]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:40:38[org.hibernate.orm.connections.pooling][main:3207]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:40:38[org.hibernate.orm.connections.pooling][main:3207]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:40:38[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3214]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:40:39[org.hibernate.dialect.Dialect][main:3963]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:40:40[org.hibernate.orm.connections.access][main:5517]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:41:04[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:41:04[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:41:05[org.hibernate.annotations.common.Version][main:573]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:41:07[org.hibernate.orm.connections.pooling][main:2861]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:41:07[org.hibernate.orm.connections.pooling][main:2873]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:41:07[org.hibernate.orm.connections.pooling][main:2874]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:41:07[org.hibernate.orm.connections.pooling][main:2875]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:41:07[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2881]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:41:08[org.hibernate.dialect.Dialect][main:3550]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:41:09[org.hibernate.orm.connections.access][main:5141]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:41:10[com.qfedu.pojo.SQLTest][main:5535]-[INFO][[Ljava.lang.Object;@30cdae70, [Ljava.lang.Object;@1654a892, [Ljava.lang.Object;@2577d6c8, [Ljava.lang.Object;@3163987e, [Ljava.lang.Object;@6c000e0c, [Ljava.lang.Object;@5f233b26, [Ljava.lang.Object;@44f9779c, [Ljava.lang.Object;@6974a715, [Ljava.lang.Object;@5e8a459, [Ljava.lang.Object;@43d455c9, [Ljava.lang.Object;@4c9e9fb8, [Ljava.lang.Object;@9ec531, [Ljava.lang.Object;@40147317, [Ljava.lang.Object;@210f0cc1, [Ljava.lang.Object;@19542407]
+2018-06-0509:57:16[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:57:16[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:57:16[org.hibernate.annotations.common.Version][main:558]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:57:18[org.hibernate.orm.connections.pooling][main:2753]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:57:18[org.hibernate.orm.connections.pooling][main:2766]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:57:18[org.hibernate.orm.connections.pooling][main:2767]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:57:18[org.hibernate.orm.connections.pooling][main:2767]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:57:18[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2773]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:57:19[org.hibernate.dialect.Dialect][main:3466]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:57:21[org.hibernate.orm.connections.access][main:5085]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:57:21[com.qfedu.pojo.ClassLazyTest][main:5471]-[INFO]执行了。。。。。
+2018-06-0509:57:21[com.qfedu.pojo.ClassLazyTest][main:5471]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0509:58:23[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0509:58:23[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0509:58:24[org.hibernate.annotations.common.Version][main:579]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0509:58:26[org.hibernate.orm.connections.pooling][main:2957]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0509:58:26[org.hibernate.orm.connections.pooling][main:2970]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0509:58:26[org.hibernate.orm.connections.pooling][main:2971]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0509:58:26[org.hibernate.orm.connections.pooling][main:2971]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0509:58:26[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2977]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0509:58:27[org.hibernate.dialect.Dialect][main:3601]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0509:58:28[org.hibernate.orm.connections.access][main:5212]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0509:58:29[com.qfedu.pojo.ClassLazyTest][main:5567]-[INFO]执行了。。。。。
+2018-06-0509:58:29[com.qfedu.pojo.ClassLazyTest][main:5567]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0509:58:29[org.hibernate.orm.connections.pooling][main:5573]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:00:59[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:00:59[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:00:59[org.hibernate.annotations.common.Version][main:560]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:01:02[org.hibernate.orm.connections.pooling][main:2985]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:01:02[org.hibernate.orm.connections.pooling][main:2998]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:01:02[org.hibernate.orm.connections.pooling][main:2999]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:01:02[org.hibernate.orm.connections.pooling][main:2999]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:01:02[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3006]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:01:02[org.hibernate.dialect.Dialect][main:3786]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:01:04[org.hibernate.orm.connections.access][main:5265]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:01:04[com.qfedu.pojo.ClassLazyTest][main:5555]-[INFO]执行了。。。。。
+2018-06-0510:01:04[com.qfedu.pojo.ClassLazyTest][main:5555]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0510:01:04[org.hibernate.orm.connections.pooling][main:5645]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:05:44[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:05:44[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:05:45[org.hibernate.annotations.common.Version][main:586]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:05:47[org.hibernate.orm.connections.pooling][main:3253]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:05:47[org.hibernate.orm.connections.pooling][main:3268]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:05:47[org.hibernate.orm.connections.pooling][main:3269]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:05:47[org.hibernate.orm.connections.pooling][main:3269]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:05:47[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3276]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:05:48[org.hibernate.dialect.Dialect][main:4161]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:05:50[org.hibernate.orm.connections.access][main:5718]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:05:50[com.qfedu.pojo.ClassLazyTest][main:6130]-[INFO]get执行了
+2018-06-0510:05:50[com.qfedu.pojo.ClassLazyTest][main:6131]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0510:05:50[com.qfedu.pojo.ClassLazyTest][main:6131]-[INFO]load执行了
+2018-06-0510:05:50[com.qfedu.pojo.ClassLazyTest][main:6132]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0510:05:50[org.hibernate.orm.connections.pooling][main:6146]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:15:42[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:15:42[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:15:43[org.hibernate.annotations.common.Version][main:545]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:15:45[org.hibernate.orm.connections.pooling][main:2896]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:15:45[org.hibernate.orm.connections.pooling][main:2909]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:15:45[org.hibernate.orm.connections.pooling][main:2910]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:15:45[org.hibernate.orm.connections.pooling][main:2911]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:15:45[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2919]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:15:46[org.hibernate.dialect.Dialect][main:3611]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:15:47[org.hibernate.orm.connections.access][main:5214]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3153ddfc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:15:48[com.qfedu.pojo.ClassLazyTest][main:5627]-[INFO]执行了。。。。。
+2018-06-0510:15:48[com.qfedu.pojo.ClassLazyTest][main:5628]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0510:15:48[org.hibernate.orm.connections.pooling][main:5634]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:17:47[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:17:47[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:17:47[org.hibernate.annotations.common.Version][main:555]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:17:50[org.hibernate.orm.connections.pooling][main:3277]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:17:50[org.hibernate.orm.connections.pooling][main:3292]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:17:50[org.hibernate.orm.connections.pooling][main:3293]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:17:50[org.hibernate.orm.connections.pooling][main:3294]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:17:50[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3302]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:17:51[org.hibernate.dialect.Dialect][main:4216]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:17:52[org.hibernate.orm.connections.access][main:5777]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:17:53[com.qfedu.pojo.ClassLazyTest][main:6116]-[INFO]执行了。。。。。
+2018-06-0510:17:53[com.qfedu.pojo.ClassLazyTest][main:6116]-[INFO]SimpleOrder{id=23, orderNum='005', productName='Java测试'}
+2018-06-0510:17:53[org.hibernate.orm.connections.pooling][main:6183]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:45:01[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:45:01[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:45:02[org.hibernate.annotations.common.Version][main:666]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:45:05[org.hibernate.orm.connections.pooling][main:3171]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:45:05[org.hibernate.orm.connections.pooling][main:3184]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:45:05[org.hibernate.orm.connections.pooling][main:3185]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:45:05[org.hibernate.orm.connections.pooling][main:3186]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:45:05[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3193]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:45:05[org.hibernate.dialect.Dialect][main:4067]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:45:07[org.hibernate.orm.connections.access][main:5633]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:45:08[com.qfedu.pojo.LazyTest][main:6373]-[INFO]执行了。。。。。。
+2018-06-0510:45:08[com.qfedu.pojo.LazyTest][main:6646]-[INFO]2
+2018-06-0510:45:08[org.hibernate.orm.connections.pooling][main:6687]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:46:04[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:46:04[org.hibernate.cfg.Environment][main:15]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:46:04[org.hibernate.annotations.common.Version][main:605]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:46:07[org.hibernate.orm.connections.pooling][main:3179]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:46:07[org.hibernate.orm.connections.pooling][main:3193]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:46:07[org.hibernate.orm.connections.pooling][main:3194]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:46:07[org.hibernate.orm.connections.pooling][main:3195]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:46:07[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3202]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:46:08[org.hibernate.dialect.Dialect][main:3985]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:46:09[org.hibernate.orm.connections.access][main:5547]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:46:10[com.qfedu.pojo.LazyTest][main:6089]-[INFO]执行了。。。。。。
+2018-06-0510:46:10[com.qfedu.pojo.LazyTest][main:6101]-[INFO]数据条数:2
+2018-06-0510:46:10[org.hibernate.orm.connections.pooling][main:6126]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:48:39[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:48:39[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:48:40[org.hibernate.annotations.common.Version][main:562]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:48:42[org.hibernate.orm.connections.pooling][main:3089]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:48:42[org.hibernate.orm.connections.pooling][main:3103]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:48:42[org.hibernate.orm.connections.pooling][main:3105]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:48:42[org.hibernate.orm.connections.pooling][main:3105]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:48:42[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3113]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:48:43[org.hibernate.dialect.Dialect][main:3869]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:48:45[org.hibernate.orm.connections.access][main:5635]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:48:45[com.qfedu.pojo.LazyTest][main:6280]-[INFO]执行了。。。。
+2018-06-0510:48:45[com.qfedu.pojo.LazyTest][main:6281]-[INFO]数据条数:2
+2018-06-0510:52:49[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:52:49[org.hibernate.cfg.Environment][main:17]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:52:50[org.hibernate.annotations.common.Version][main:542]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:52:52[org.hibernate.orm.connections.pooling][main:2746]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:52:52[org.hibernate.orm.connections.pooling][main:2759]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:52:52[org.hibernate.orm.connections.pooling][main:2760]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:52:52[org.hibernate.orm.connections.pooling][main:2761]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:52:52[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2767]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:52:53[org.hibernate.dialect.Dialect][main:3603]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:52:54[org.hibernate.orm.connections.access][main:5203]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:52:55[com.qfedu.pojo.LazyTest][main:5690]-[INFO]执行了。。。。。
+2018-06-0510:52:55[com.qfedu.pojo.LazyTest][main:5787]-[INFO]数据条数:2
+2018-06-0510:53:27[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:53:27[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:53:28[org.hibernate.annotations.common.Version][main:554]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:53:30[org.hibernate.orm.connections.pooling][main:3046]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:53:30[org.hibernate.orm.connections.pooling][main:3060]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:53:30[org.hibernate.orm.connections.pooling][main:3061]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:53:30[org.hibernate.orm.connections.pooling][main:3061]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:53:30[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3070]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:53:31[org.hibernate.dialect.Dialect][main:3833]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:53:33[org.hibernate.orm.connections.access][main:5501]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:53:33[com.qfedu.pojo.LazyTest][main:5892]-[INFO]执行了。。。。。
+2018-06-0510:53:33[com.qfedu.pojo.LazyTest][main:5905]-[INFO]数据条数:2
+2018-06-0510:54:49[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0510:54:49[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0510:54:49[org.hibernate.annotations.common.Version][main:557]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0510:54:52[org.hibernate.orm.connections.pooling][main:2767]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0510:54:52[org.hibernate.orm.connections.pooling][main:2781]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0510:54:52[org.hibernate.orm.connections.pooling][main:2782]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0510:54:52[org.hibernate.orm.connections.pooling][main:2783]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0510:54:52[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2791]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0510:54:52[org.hibernate.dialect.Dialect][main:3515]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0510:54:54[org.hibernate.orm.connections.access][main:5067]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0510:54:54[com.qfedu.pojo.LazyTest][main:5543]-[INFO]执行了。。。。。
+2018-06-0510:54:54[com.qfedu.pojo.LazyTest][main:5543]-[INFO]数据条数:2
+2018-06-0512:41:21[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:41:21[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:41:21[org.hibernate.annotations.common.Version][main:526]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:41:24[org.hibernate.orm.connections.pooling][main:2848]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:41:24[org.hibernate.orm.connections.pooling][main:2860]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:41:24[org.hibernate.orm.connections.pooling][main:2861]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:41:24[org.hibernate.orm.connections.pooling][main:2862]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:41:24[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2869]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:41:24[org.hibernate.dialect.Dialect][main:3650]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:41:26[org.hibernate.orm.connections.access][main:5240]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:41:27[com.qfedu.pojo.LazyTest][main:6002]-[INFO]执行了。。。。
+2018-06-0512:41:27[com.qfedu.pojo.LazyTest][main:6048]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:41:57[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:41:57[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:41:58[org.hibernate.annotations.common.Version][main:549]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:42:00[org.hibernate.orm.connections.pooling][main:3126]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:42:00[org.hibernate.orm.connections.pooling][main:3139]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:42:00[org.hibernate.orm.connections.pooling][main:3140]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:42:00[org.hibernate.orm.connections.pooling][main:3141]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:42:00[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3147]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:42:01[org.hibernate.dialect.Dialect][main:3902]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:42:03[org.hibernate.orm.connections.access][main:5554]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:42:03[com.qfedu.pojo.LazyTest][main:6203]-[INFO]执行了。。。。
+2018-06-0512:42:03[com.qfedu.pojo.LazyTest][main:6221]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:43:24[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:43:24[org.hibernate.cfg.Environment][main:15]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:43:25[org.hibernate.annotations.common.Version][main:546]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:43:27[org.hibernate.orm.connections.pooling][main:3030]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:43:27[org.hibernate.orm.connections.pooling][main:3045]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:43:27[org.hibernate.orm.connections.pooling][main:3047]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:43:27[org.hibernate.orm.connections.pooling][main:3048]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:43:27[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3062]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:43:28[org.hibernate.dialect.Dialect][main:3771]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:43:30[org.hibernate.orm.connections.access][main:5536]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:43:30[com.qfedu.pojo.LazyTest][main:6112]-[INFO]执行了。。。。
+2018-06-0512:43:30[com.qfedu.pojo.LazyTest][main:6113]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:45:59[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:45:59[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:46:00[org.hibernate.annotations.common.Version][main:582]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:46:02[org.hibernate.orm.connections.pooling][main:3107]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:46:02[org.hibernate.orm.connections.pooling][main:3122]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:46:02[org.hibernate.orm.connections.pooling][main:3123]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:46:02[org.hibernate.orm.connections.pooling][main:3124]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:46:02[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3131]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:46:03[org.hibernate.dialect.Dialect][main:3966]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:46:05[org.hibernate.orm.connections.access][main:5620]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:46:05[com.qfedu.pojo.LazyTest][main:6212]-[INFO]执行了。。。。
+2018-06-0512:46:05[com.qfedu.pojo.LazyTest][main:6213]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:47:50[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:47:50[org.hibernate.cfg.Environment][main:15]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:47:50[org.hibernate.annotations.common.Version][main:572]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:47:53[org.hibernate.orm.connections.pooling][main:3367]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:47:53[org.hibernate.orm.connections.pooling][main:3381]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:47:53[org.hibernate.orm.connections.pooling][main:3382]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:47:53[org.hibernate.orm.connections.pooling][main:3382]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:47:53[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3388]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:47:54[org.hibernate.dialect.Dialect][main:4174]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:47:56[org.hibernate.orm.connections.access][main:5741]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:47:56[com.qfedu.pojo.LazyTest][main:6354]-[INFO]执行了。。。。。
+2018-06-0512:47:56[com.qfedu.pojo.LazyTest][main:6355]-[INFO]数据条数:2
+2018-06-0512:49:37[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:49:37[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:49:38[org.hibernate.annotations.common.Version][main:562]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:49:40[org.hibernate.orm.connections.pooling][main:2870]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:49:40[org.hibernate.orm.connections.pooling][main:2883]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:49:40[org.hibernate.orm.connections.pooling][main:2884]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:49:40[org.hibernate.orm.connections.pooling][main:2885]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:49:40[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2892]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:49:41[org.hibernate.dialect.Dialect][main:3544]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:49:42[org.hibernate.orm.connections.access][main:5212]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:49:43[com.qfedu.pojo.LazyTest][main:5682]-[INFO]执行了。。。。。
+2018-06-0512:49:43[com.qfedu.pojo.LazyTest][main:5682]-[INFO]数据条数:2
+2018-06-0512:50:22[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:50:22[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:50:23[org.hibernate.annotations.common.Version][main:520]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:50:25[org.hibernate.orm.connections.pooling][main:2955]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:50:25[org.hibernate.orm.connections.pooling][main:2970]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:50:25[org.hibernate.orm.connections.pooling][main:2971]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:50:25[org.hibernate.orm.connections.pooling][main:2971]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:50:25[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2980]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:50:26[org.hibernate.dialect.Dialect][main:3851]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:50:28[org.hibernate.orm.connections.access][main:5369]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:50:28[com.qfedu.pojo.LazyTest][main:5893]-[INFO]执行了。。。。
+2018-06-0512:50:28[com.qfedu.pojo.LazyTest][main:5894]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:50:57[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:50:57[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:50:58[org.hibernate.annotations.common.Version][main:567]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:51:00[org.hibernate.orm.connections.pooling][main:2972]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:51:00[org.hibernate.orm.connections.pooling][main:2984]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:51:00[org.hibernate.orm.connections.pooling][main:2985]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:51:00[org.hibernate.orm.connections.pooling][main:2986]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:51:00[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2993]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:51:01[org.hibernate.dialect.Dialect][main:3765]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:51:02[org.hibernate.orm.connections.access][main:5396]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:51:03[com.qfedu.pojo.LazyTest][main:6064]-[INFO]执行了。。。。
+2018-06-0512:51:03[com.qfedu.pojo.LazyTest][main:6065]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:53:33[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:53:33[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:53:34[org.hibernate.annotations.common.Version][main:590]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:53:36[org.hibernate.orm.connections.pooling][main:3070]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:53:36[org.hibernate.orm.connections.pooling][main:3083]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:53:36[org.hibernate.orm.connections.pooling][main:3084]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:53:36[org.hibernate.orm.connections.pooling][main:3085]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:53:37[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3093]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:53:37[org.hibernate.dialect.Dialect][main:3924]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:53:39[org.hibernate.orm.connections.access][main:5527]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:53:39[com.qfedu.pojo.LazyTest][main:6038]-[INFO]执行了。。。。
+2018-06-0512:53:40[com.qfedu.pojo.LazyTest][main:6204]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0512:57:29[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0512:57:29[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0512:57:29[org.hibernate.annotations.common.Version][main:534]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0512:57:32[org.hibernate.orm.connections.pooling][main:2812]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0512:57:32[org.hibernate.orm.connections.pooling][main:2825]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0512:57:32[org.hibernate.orm.connections.pooling][main:2826]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0512:57:32[org.hibernate.orm.connections.pooling][main:2826]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0512:57:32[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2832]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0512:57:32[org.hibernate.dialect.Dialect][main:3608]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0512:57:34[org.hibernate.orm.connections.access][main:5133]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0512:57:34[com.qfedu.pojo.LazyTest][main:5700]-[INFO]执行了。。。。
+2018-06-0512:57:34[com.qfedu.pojo.LazyTest][main:5718]-[INFO]返回的数据:User{id=41, name='小黄', gender='男', age=18}
+2018-06-0513:05:10[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:05:10[org.hibernate.cfg.Environment][main:16]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:05:11[org.hibernate.annotations.common.Version][main:566]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:05:14[org.hibernate.orm.connections.pooling][main:3533]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:05:14[org.hibernate.orm.connections.pooling][main:3548]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:05:14[org.hibernate.orm.connections.pooling][main:3549]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:05:14[org.hibernate.orm.connections.pooling][main:3549]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:05:14[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3557]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:05:15[org.hibernate.dialect.Dialect][main:4219]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:05:16[org.hibernate.orm.connections.access][main:5849]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:05:17[com.qfedu.pojo.FetchTest][main:6314]-[INFO]执行了。。。。。
+2018-06-0513:05:17[com.qfedu.pojo.FetchTest][main:6315]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0513:06:17[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:06:17[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:06:18[org.hibernate.annotations.common.Version][main:557]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:06:20[org.hibernate.orm.connections.pooling][main:3027]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:06:20[org.hibernate.orm.connections.pooling][main:3039]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:06:20[org.hibernate.orm.connections.pooling][main:3040]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:06:20[org.hibernate.orm.connections.pooling][main:3041]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:06:20[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3048]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:06:21[org.hibernate.dialect.Dialect][main:3711]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:06:23[org.hibernate.orm.connections.access][main:5374]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@50b8ae8d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:06:23[com.qfedu.pojo.FetchTest][main:5911]-[INFO]执行了。。。。。
+2018-06-0513:06:23[com.qfedu.pojo.FetchTest][main:5911]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0513:14:08[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:14:08[org.hibernate.cfg.Environment][main:16]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:14:09[org.hibernate.annotations.common.Version][main:539]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:14:11[org.hibernate.orm.connections.pooling][main:2948]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:14:11[org.hibernate.orm.connections.pooling][main:2962]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:14:11[org.hibernate.orm.connections.pooling][main:2963]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:14:11[org.hibernate.orm.connections.pooling][main:2964]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:14:11[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2971]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:14:12[org.hibernate.dialect.Dialect][main:3882]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:14:14[org.hibernate.orm.connections.access][main:5584]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:14:14[com.qfedu.pojo.FetchTest][main:6024]-[INFO]执行了。。。。。
+2018-06-0513:14:14[com.qfedu.pojo.FetchTest][main:6025]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0513:16:41[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:16:41[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:16:42[org.hibernate.annotations.common.Version][main:550]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:16:44[org.hibernate.orm.connections.pooling][main:2854]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:16:44[org.hibernate.orm.connections.pooling][main:2867]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:16:44[org.hibernate.orm.connections.pooling][main:2868]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:16:44[org.hibernate.orm.connections.pooling][main:2868]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:16:44[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2875]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:16:45[org.hibernate.dialect.Dialect][main:3644]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:16:47[org.hibernate.orm.connections.access][main:5181]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:16:47[com.qfedu.pojo.FetchTest][main:5557]-[INFO]执行了。。。。。
+2018-06-0513:16:47[com.qfedu.pojo.FetchTest][main:5558]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0513:18:06[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:18:06[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:18:06[org.hibernate.annotations.common.Version][main:651]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:18:09[org.hibernate.orm.connections.pooling][main:3105]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:18:09[org.hibernate.orm.connections.pooling][main:3121]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:18:09[org.hibernate.orm.connections.pooling][main:3122]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:18:09[org.hibernate.orm.connections.pooling][main:3123]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:18:09[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3131]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:18:10[org.hibernate.dialect.Dialect][main:3786]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:18:11[org.hibernate.orm.connections.access][main:5507]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3228d990] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:18:12[com.qfedu.pojo.FetchTest][main:5961]-[INFO]执行了。。。。。
+2018-06-0513:18:12[com.qfedu.pojo.FetchTest][main:5961]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0513:25:32[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:25:32[org.hibernate.cfg.Environment][main:17]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:25:32[org.hibernate.annotations.common.Version][main:721]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:25:35[org.hibernate.orm.connections.pooling][main:3049]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:25:35[org.hibernate.orm.connections.pooling][main:3063]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:25:35[org.hibernate.orm.connections.pooling][main:3064]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:25:35[org.hibernate.orm.connections.pooling][main:3065]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:25:35[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3072]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:25:35[org.hibernate.dialect.Dialect][main:3708]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:25:37[org.hibernate.orm.connections.access][main:5376]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@60afd40d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:25:37[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5747]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6177]-[INFO]执行了。。。。
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6177]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6178]-[INFO][SimpleOrder{id=20, orderNum='002', productName='Web'}, SimpleOrder{id=19, orderNum='001', productName='Java'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6210]-[INFO]User{id=42, name='小红', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6211]-[INFO][]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6215]-[INFO]User{id=43, name='小白', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6215]-[INFO][SimpleOrder{id=23, orderNum='005', productName='Java测试'}, SimpleOrder{id=24, orderNum='006', productName='Web测试'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6219]-[INFO]User{id=44, name='小白', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6219]-[INFO][SimpleOrder{id=26, orderNum='008', productName='Web第一课'}, SimpleOrder{id=25, orderNum='007', productName='JavaEE测试'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6223]-[INFO]User{id=45, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6223]-[INFO][SimpleOrder{id=28, orderNum='008', productName='Web第二课'}, SimpleOrder{id=27, orderNum='007', productName='JavaEE第一天'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6227]-[INFO]User{id=46, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6227]-[INFO][SimpleOrder{id=29, orderNum='007', productName='JavaEE第二天'}, SimpleOrder{id=30, orderNum='008', productName='Web第三课'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6234]-[INFO]User{id=47, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6234]-[INFO][]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6240]-[INFO]User{id=49, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6241]-[INFO][SimpleOrder{id=32, orderNum='008', productName='Web第三课'}, SimpleOrder{id=31, orderNum='007', productName='JavaEE第二天'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6245]-[INFO]User{id=50, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6245]-[INFO][]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6248]-[INFO]User{id=51, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6249]-[INFO][SimpleOrder{id=35, orderNum='009', productName='JavaEE第二天'}, SimpleOrder{id=36, orderNum='010', productName='Web第三课'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6259]-[INFO]User{id=52, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6260]-[INFO][]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6264]-[INFO]User{id=53, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6264]-[INFO][]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6267]-[INFO]User{id=54, name='小橙', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6267]-[INFO][SimpleOrder{id=40, orderNum='010', productName='Web第三课'}, SimpleOrder{id=39, orderNum='009', productName='JavaEE第二天'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6275]-[INFO]User{id=55, name='小彩', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6275]-[INFO][SimpleOrder{id=42, orderNum='009', productName='JavaEE第三天'}, SimpleOrder{id=41, orderNum='010', productName='Web第四课'}]
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6279]-[INFO]User{id=56, name='小青', gender='女', age=18}
+2018-06-0513:25:38[com.qfedu.pojo.FetchTest][main:6280]-[INFO][]
+2018-06-0513:30:58[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:30:58[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:30:59[org.hibernate.annotations.common.Version][main:620]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:31:01[org.hibernate.orm.connections.pooling][main:3125]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:31:01[org.hibernate.orm.connections.pooling][main:3140]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:31:01[org.hibernate.orm.connections.pooling][main:3141]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:31:01[org.hibernate.orm.connections.pooling][main:3142]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:31:01[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3153]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:31:02[org.hibernate.dialect.Dialect][main:3927]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:31:03[org.hibernate.orm.connections.access][main:5446]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@50b8ae8d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:31:04[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5765]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6081]-[INFO]执行了。。。。
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6081]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6081]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6190]-[INFO]User{id=42, name='小红', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6191]-[INFO][]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6196]-[INFO]User{id=43, name='小白', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6196]-[INFO][SimpleOrder{id=23, orderNum='005', productName='Java测试'}, SimpleOrder{id=24, orderNum='006', productName='Web测试'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6200]-[INFO]User{id=44, name='小白', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6200]-[INFO][SimpleOrder{id=26, orderNum='008', productName='Web第一课'}, SimpleOrder{id=25, orderNum='007', productName='JavaEE测试'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6207]-[INFO]User{id=45, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6207]-[INFO][SimpleOrder{id=27, orderNum='007', productName='JavaEE第一天'}, SimpleOrder{id=28, orderNum='008', productName='Web第二课'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6216]-[INFO]User{id=46, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6216]-[INFO][SimpleOrder{id=29, orderNum='007', productName='JavaEE第二天'}, SimpleOrder{id=30, orderNum='008', productName='Web第三课'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6223]-[INFO]User{id=47, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6224]-[INFO][]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6227]-[INFO]User{id=49, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6228]-[INFO][SimpleOrder{id=31, orderNum='007', productName='JavaEE第二天'}, SimpleOrder{id=32, orderNum='008', productName='Web第三课'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6231]-[INFO]User{id=50, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6232]-[INFO][]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6235]-[INFO]User{id=51, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6235]-[INFO][SimpleOrder{id=35, orderNum='009', productName='JavaEE第二天'}, SimpleOrder{id=36, orderNum='010', productName='Web第三课'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6239]-[INFO]User{id=52, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6239]-[INFO][]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6243]-[INFO]User{id=53, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6243]-[INFO][]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6246]-[INFO]User{id=54, name='小橙', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6246]-[INFO][SimpleOrder{id=39, orderNum='009', productName='JavaEE第二天'}, SimpleOrder{id=40, orderNum='010', productName='Web第三课'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6253]-[INFO]User{id=55, name='小彩', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6254]-[INFO][SimpleOrder{id=42, orderNum='009', productName='JavaEE第三天'}, SimpleOrder{id=41, orderNum='010', productName='Web第四课'}]
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6257]-[INFO]User{id=56, name='小青', gender='女', age=18}
+2018-06-0513:31:04[com.qfedu.pojo.FetchTest][main:6257]-[INFO][]
+2018-06-0513:31:52[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:31:52[org.hibernate.cfg.Environment][main:17]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:31:53[org.hibernate.annotations.common.Version][main:543]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:31:55[org.hibernate.orm.connections.pooling][main:2858]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:31:55[org.hibernate.orm.connections.pooling][main:2871]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:31:55[org.hibernate.orm.connections.pooling][main:2872]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:31:55[org.hibernate.orm.connections.pooling][main:2873]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:31:55[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2879]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:31:56[org.hibernate.dialect.Dialect][main:3696]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:31:57[org.hibernate.orm.connections.access][main:5254]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:31:58[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5639]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6111]-[INFO]执行了。。。。
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6112]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6112]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6238]-[INFO]User{id=42, name='小红', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6238]-[INFO][]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6240]-[INFO]User{id=43, name='小白', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6241]-[INFO][SimpleOrder{id=23, orderNum='005', productName='Java测试'}, SimpleOrder{id=24, orderNum='006', productName='Web测试'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6241]-[INFO]User{id=44, name='小白', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6241]-[INFO][SimpleOrder{id=25, orderNum='007', productName='JavaEE测试'}, SimpleOrder{id=26, orderNum='008', productName='Web第一课'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6241]-[INFO]User{id=45, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6242]-[INFO][SimpleOrder{id=28, orderNum='008', productName='Web第二课'}, SimpleOrder{id=27, orderNum='007', productName='JavaEE第一天'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6243]-[INFO]User{id=46, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6243]-[INFO][SimpleOrder{id=30, orderNum='008', productName='Web第三课'}, SimpleOrder{id=29, orderNum='007', productName='JavaEE第二天'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6246]-[INFO]User{id=47, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6247]-[INFO][]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6248]-[INFO]User{id=49, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6249]-[INFO][SimpleOrder{id=32, orderNum='008', productName='Web第三课'}, SimpleOrder{id=31, orderNum='007', productName='JavaEE第二天'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6249]-[INFO]User{id=50, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6249]-[INFO][]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6249]-[INFO]User{id=51, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6250]-[INFO][SimpleOrder{id=36, orderNum='010', productName='Web第三课'}, SimpleOrder{id=35, orderNum='009', productName='JavaEE第二天'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6250]-[INFO]User{id=52, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6250]-[INFO][]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6250]-[INFO]User{id=53, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6251]-[INFO][]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6252]-[INFO]User{id=54, name='小橙', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6252]-[INFO][SimpleOrder{id=40, orderNum='010', productName='Web第三课'}, SimpleOrder{id=39, orderNum='009', productName='JavaEE第二天'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6252]-[INFO]User{id=55, name='小彩', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6253]-[INFO][SimpleOrder{id=42, orderNum='009', productName='JavaEE第三天'}, SimpleOrder{id=41, orderNum='010', productName='Web第四课'}]
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6253]-[INFO]User{id=56, name='小青', gender='女', age=18}
+2018-06-0513:31:58[com.qfedu.pojo.FetchTest][main:6253]-[INFO][]
+2018-06-0513:43:49[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0513:43:49[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0513:43:49[org.hibernate.annotations.common.Version][main:536]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0513:43:52[org.hibernate.orm.connections.pooling][main:2929]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0513:43:52[org.hibernate.orm.connections.pooling][main:2942]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0513:43:52[org.hibernate.orm.connections.pooling][main:2943]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0513:43:52[org.hibernate.orm.connections.pooling][main:2944]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0513:43:52[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2951]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0513:43:53[org.hibernate.dialect.Dialect][main:3786]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0513:43:54[org.hibernate.orm.connections.access][main:5403]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68ed96ca] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0513:43:55[com.qfedu.pojo.LazyTest][main:5992]-[INFO]执行了。。。。
+2018-06-0513:43:55[com.qfedu.pojo.LazyTest][main:5993]-[INFO]数据条数:2
+2018-06-0514:54:08[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0514:54:08[org.hibernate.cfg.Environment][main:31]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0514:54:09[org.hibernate.annotations.common.Version][main:1711]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0514:54:12[org.hibernate.orm.connections.pooling][main:4213]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0514:54:12[org.hibernate.orm.connections.pooling][main:4250]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0514:54:12[org.hibernate.orm.connections.pooling][main:4252]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0514:54:12[org.hibernate.orm.connections.pooling][main:4252]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0514:54:12[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:4259]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0514:54:16[org.hibernate.dialect.Dialect][main:8864]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0514:54:19[org.hibernate.orm.connections.access][main:11380]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0514:54:21[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:13262]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0514:54:21[com.qfedu.pojo.EhcacheTest][main:13924]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0514:54:21[com.qfedu.pojo.EhcacheTest][main:13925]-[INFO]--------------------------
+2018-06-0514:54:22[com.qfedu.pojo.EhcacheTest][main:13963]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0514:54:22[org.hibernate.orm.connections.pooling][main:13973]-[INFO]HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0514:56:56[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0514:56:56[org.hibernate.cfg.Environment][main:11]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0514:56:57[org.hibernate.annotations.common.Version][main:560]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0514:56:59[org.hibernate.orm.connections.pooling][main:3140]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0514:56:59[org.hibernate.orm.connections.pooling][main:3155]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0514:56:59[org.hibernate.orm.connections.pooling][main:3156]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0514:56:59[org.hibernate.orm.connections.pooling][main:3156]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0514:56:59[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3164]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0514:57:00[org.hibernate.dialect.Dialect][main:3873]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0514:57:02[org.hibernate.orm.connections.access][main:5630]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6831d8fd] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0514:57:02[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6011]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0514:57:03[com.qfedu.pojo.EhcacheTest][main:6495]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0514:57:03[com.qfedu.pojo.EhcacheTest][main:6496]-[INFO]--------------------------
+2018-06-0514:57:03[com.qfedu.pojo.EhcacheTest][main:6525]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0514:57:03[com.qfedu.pojo.EhcacheTest][main:6549]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0514:59:55[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0514:59:55[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0514:59:56[org.hibernate.annotations.common.Version][main:622]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0514:59:58[org.hibernate.orm.connections.pooling][main:3019]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0514:59:58[org.hibernate.orm.connections.pooling][main:3031]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0514:59:58[org.hibernate.orm.connections.pooling][main:3032]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0514:59:58[org.hibernate.orm.connections.pooling][main:3033]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0514:59:58[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3040]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0514:59:59[org.hibernate.dialect.Dialect][main:3658]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0515:00:01[org.hibernate.orm.connections.access][main:5341]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0515:00:01[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5717]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0515:00:02[com.qfedu.pojo.EhcacheTest][main:6113]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:00:02[com.qfedu.pojo.EhcacheTest][main:6114]-[INFO]-----------------同一个session下第二次查询---------------
+2018-06-0515:00:02[com.qfedu.pojo.EhcacheTest][main:6148]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:00:02[com.qfedu.pojo.EhcacheTest][main:6162]-[INFO]------------------新的sessiom执行查询----------------------
+2018-06-0515:00:02[com.qfedu.pojo.EhcacheTest][main:6173]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:44[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0515:01:44[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0515:01:44[org.hibernate.annotations.common.Version][main:552]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0515:01:46[org.hibernate.orm.connections.pooling][main:2919]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0515:01:47[org.hibernate.orm.connections.pooling][main:2932]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0515:01:47[org.hibernate.orm.connections.pooling][main:2933]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0515:01:47[org.hibernate.orm.connections.pooling][main:2933]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0515:01:47[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2940]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0515:01:47[org.hibernate.dialect.Dialect][main:3750]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0515:01:49[org.hibernate.orm.connections.access][main:5270]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0515:01:49[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5704]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6070]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6070]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6071]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6071]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6071]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6073]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6075]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6075]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6076]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6076]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6076]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6077]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6077]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6078]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6078]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6079]-[INFO]-----------------同一个session下第二次查询---------------
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6107]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6116]-[INFO]------------------新的sessiom执行查询----------------------
+2018-06-0515:01:50[com.qfedu.pojo.EhcacheTest][main:6153]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:10[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0515:04:10[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0515:04:11[org.hibernate.annotations.common.Version][main:520]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0515:04:13[org.hibernate.orm.connections.pooling][main:2834]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0515:04:13[org.hibernate.orm.connections.pooling][main:2847]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0515:04:13[org.hibernate.orm.connections.pooling][main:2848]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0515:04:13[org.hibernate.orm.connections.pooling][main:2849]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0515:04:13[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2855]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0515:04:14[org.hibernate.dialect.Dialect][main:3583]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0515:04:16[org.hibernate.orm.connections.access][main:5134]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0515:04:16[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5585]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5943]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5943]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5944]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5945]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5945]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5947]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5948]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5948]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5950]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5950]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5951]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5951]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5951]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5951]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5952]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5952]-[INFO]-----------------同一个session下第二次查询---------------
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5982]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5982]-[INFO]User{id=42, name='小红', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5982]-[INFO]User{id=43, name='小白', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5983]-[INFO]User{id=44, name='小白', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5983]-[INFO]User{id=45, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5983]-[INFO]User{id=46, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5983]-[INFO]User{id=47, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5984]-[INFO]User{id=49, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5984]-[INFO]User{id=50, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5984]-[INFO]User{id=51, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5986]-[INFO]User{id=52, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5988]-[INFO]User{id=53, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5988]-[INFO]User{id=54, name='小橙', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5989]-[INFO]User{id=55, name='小彩', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5989]-[INFO]User{id=56, name='小青', gender='女', age=18}
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:5999]-[INFO]------------------新的sessiom执行查询----------------------
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6013]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6013]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6014]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6014]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6014]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6015]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6015]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6016]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6017]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6017]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6018]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6018]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6019]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6019]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]
+2018-06-0515:04:16[com.qfedu.pojo.EhcacheTest][main:6019]-[INFO][User{id=41, name='小黄', gender='男', age=18}, User{id=42, name='小红', gender='女', age=18}, User{id=43, name='小白', gender='女', age=18}, User{id=44, name='小白', gender='女', age=18}, User{id=45, name='小橙', gender='女', age=18}, User{id=46, name='小橙', gender='女', age=18}, User{id=47, name='小橙', gender='女', age=18}, User{id=49, name='小橙', gender='女', age=18}, User{id=50, name='小橙', gender='女', age=18}, User{id=51, name='小橙', gender='女', age=18}, User{id=52, name='小橙', gender='女', age=18}, User{id=53, name='小橙', gender='女', age=18}, User{id=54, name='小橙', gender='女', age=18}, User{id=55, name='小彩', gender='女', age=18}, User{id=56, name='小青', gender='女', age=18}]

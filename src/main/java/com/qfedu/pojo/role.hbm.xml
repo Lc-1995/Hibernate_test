@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.qfedu.pojo">
+    <class name="Role" table="role">
+        <id name="id">
+            <generator class="native"></generator>
+        </id>
+        <property name="name"></property>
+
+        <!--多对多-->
+        <set name="peoples" table="people_role" inverse="true">
+            <key column="role_id"></key>
+            <many-to-many class="People" column="people_id"></many-to-many>
+        </set>
+    </class>
+</hibernate-mapping>

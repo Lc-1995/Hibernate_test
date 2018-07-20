@@ -1,0 +1,154 @@
+2018-07-1722:57:19[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1722:57:19[org.hibernate.cfg.Environment][main:23]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1722:57:22[org.hibernate.annotations.common.Version][main:2546]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1722:57:26[org.hibernate.orm.connections.pooling][main:6553]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1722:57:26[org.hibernate.orm.connections.pooling][main:6612]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1722:57:26[org.hibernate.orm.connections.pooling][main:6613]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1722:57:26[org.hibernate.orm.connections.pooling][main:6614]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1722:57:26[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:6621]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1722:57:27[org.hibernate.dialect.Dialect][main:8065]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1722:57:31[org.hibernate.orm.connections.access][main:11594]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1722:57:32[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:12589]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1722:58:20[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1722:58:20[org.hibernate.cfg.Environment][main:16]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1722:58:21[org.hibernate.annotations.common.Version][main:658]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1722:58:23[org.hibernate.orm.connections.pooling][main:3213]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1722:58:23[org.hibernate.orm.connections.pooling][main:3229]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1722:58:23[org.hibernate.orm.connections.pooling][main:3235]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1722:58:23[org.hibernate.orm.connections.pooling][main:3235]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1722:58:23[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3243]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1722:58:24[org.hibernate.dialect.Dialect][main:4068]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1722:58:26[org.hibernate.orm.connections.access][main:5935]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1722:58:26[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6314]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1722:59:03[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1722:59:03[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1722:59:04[org.hibernate.annotations.common.Version][main:633]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1722:59:07[org.hibernate.orm.connections.pooling][main:3352]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1722:59:07[org.hibernate.orm.connections.pooling][main:3366]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1722:59:07[org.hibernate.orm.connections.pooling][main:3367]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1722:59:07[org.hibernate.orm.connections.pooling][main:3367]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1722:59:07[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3375]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1722:59:07[org.hibernate.dialect.Dialect][main:4069]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1722:59:09[org.hibernate.orm.connections.access][main:6048]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1722:59:10[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6413]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1722:59:41[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1722:59:41[org.hibernate.cfg.Environment][main:15]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1722:59:42[org.hibernate.annotations.common.Version][main:604]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1722:59:44[org.hibernate.orm.connections.pooling][main:3238]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1722:59:44[org.hibernate.orm.connections.pooling][main:3257]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1722:59:44[org.hibernate.orm.connections.pooling][main:3259]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1722:59:44[org.hibernate.orm.connections.pooling][main:3259]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1722:59:44[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3267]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1722:59:45[org.hibernate.dialect.Dialect][main:4227]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1722:59:47[org.hibernate.orm.connections.access][main:6082]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1722:59:47[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6456]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:00:16[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:00:16[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:00:16[org.hibernate.annotations.common.Version][main:612]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:00:19[org.hibernate.orm.connections.pooling][main:3480]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:00:19[org.hibernate.orm.connections.pooling][main:3494]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:00:19[org.hibernate.orm.connections.pooling][main:3495]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:00:19[org.hibernate.orm.connections.pooling][main:3496]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:00:19[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3503]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:00:20[org.hibernate.dialect.Dialect][main:4300]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:00:22[org.hibernate.orm.connections.access][main:6102]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:00:22[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6460]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:00:53[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:00:53[org.hibernate.cfg.Environment][main:16]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:00:54[org.hibernate.annotations.common.Version][main:638]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:00:57[org.hibernate.orm.connections.pooling][main:3304]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:00:57[org.hibernate.orm.connections.pooling][main:3319]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:00:57[org.hibernate.orm.connections.pooling][main:3320]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:00:57[org.hibernate.orm.connections.pooling][main:3320]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:00:57[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3328]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:00:57[org.hibernate.dialect.Dialect][main:4125]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:00:59[org.hibernate.orm.connections.access][main:5926]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:01:00[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6290]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:01:26[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:01:26[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:01:27[org.hibernate.annotations.common.Version][main:641]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:01:29[org.hibernate.orm.connections.pooling][main:3150]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:01:29[org.hibernate.orm.connections.pooling][main:3165]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:01:29[org.hibernate.orm.connections.pooling][main:3166]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:01:29[org.hibernate.orm.connections.pooling][main:3168]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:01:29[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3176]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:01:30[org.hibernate.dialect.Dialect][main:3999]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:01:32[org.hibernate.orm.connections.access][main:5790]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:01:32[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6176]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:01:56[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:01:56[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:01:57[org.hibernate.annotations.common.Version][main:730]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:01:59[org.hibernate.orm.connections.pooling][main:3234]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:01:59[org.hibernate.orm.connections.pooling][main:3248]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:01:59[org.hibernate.orm.connections.pooling][main:3249]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:01:59[org.hibernate.orm.connections.pooling][main:3250]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:01:59[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3258]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:02:00[org.hibernate.dialect.Dialect][main:4103]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:02:02[org.hibernate.orm.connections.access][main:5912]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:02:03[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6305]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:03:27[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:03:27[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:03:28[org.hibernate.annotations.common.Version][main:586]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:03:30[org.hibernate.orm.connections.pooling][main:3194]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:03:30[org.hibernate.orm.connections.pooling][main:3208]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:03:30[org.hibernate.orm.connections.pooling][main:3209]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:03:30[org.hibernate.orm.connections.pooling][main:3210]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:03:30[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3217]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:03:31[org.hibernate.dialect.Dialect][main:4032]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:03:33[org.hibernate.orm.connections.access][main:5836]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6831d8fd] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:03:33[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6211]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:04:27[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:04:27[org.hibernate.cfg.Environment][main:14]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:04:28[org.hibernate.annotations.common.Version][main:577]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:04:31[org.hibernate.orm.connections.pooling][main:3246]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:04:31[org.hibernate.orm.connections.pooling][main:3261]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:04:31[org.hibernate.orm.connections.pooling][main:3262]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:04:31[org.hibernate.orm.connections.pooling][main:3263]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:04:31[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3272]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:04:31[org.hibernate.dialect.Dialect][main:4067]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:04:33[org.hibernate.orm.connections.access][main:5877]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:04:34[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6242]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:05:35[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:05:35[org.hibernate.cfg.Environment][main:13]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:05:36[org.hibernate.annotations.common.Version][main:603]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:05:39[org.hibernate.orm.connections.pooling][main:3369]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:05:39[org.hibernate.orm.connections.pooling][main:3384]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:05:39[org.hibernate.orm.connections.pooling][main:3385]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:05:39[org.hibernate.orm.connections.pooling][main:3385]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:05:39[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3392]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:05:39[org.hibernate.dialect.Dialect][main:4088]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:05:41[org.hibernate.orm.connections.access][main:6071]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:05:42[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6434]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:06:13[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:06:13[org.hibernate.cfg.Environment][main:16]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:06:13[org.hibernate.annotations.common.Version][main:575]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:06:16[org.hibernate.orm.connections.pooling][main:3160]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:06:16[org.hibernate.orm.connections.pooling][main:3174]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:06:16[org.hibernate.orm.connections.pooling][main:3176]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:06:16[org.hibernate.orm.connections.pooling][main:3176]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:06:16[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3183]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:06:17[org.hibernate.dialect.Dialect][main:4002]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:06:19[org.hibernate.orm.connections.access][main:6001]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:06:19[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6386]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:06:47[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:06:48[org.hibernate.cfg.Environment][main:15]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:06:48[org.hibernate.annotations.common.Version][main:579]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:06:51[org.hibernate.orm.connections.pooling][main:3355]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:06:51[org.hibernate.orm.connections.pooling][main:3371]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:06:51[org.hibernate.orm.connections.pooling][main:3372]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:06:51[org.hibernate.orm.connections.pooling][main:3373]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:06:51[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3381]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:06:52[org.hibernate.dialect.Dialect][main:4247]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:06:54[org.hibernate.orm.connections.access][main:6078]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:06:54[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6434]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-07-1723:07:37[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-07-1723:07:37[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-07-1723:07:38[org.hibernate.annotations.common.Version][main:601]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-07-1723:07:40[org.hibernate.orm.connections.pooling][main:3278]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-07-1723:07:40[org.hibernate.orm.connections.pooling][main:3292]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-07-1723:07:40[org.hibernate.orm.connections.pooling][main:3293]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-07-1723:07:40[org.hibernate.orm.connections.pooling][main:3294]-[INFO]HHH10001003: Autocommit mode: false
+2018-07-1723:07:40[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3302]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-07-1723:07:41[org.hibernate.dialect.Dialect][main:4048]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-07-1723:07:43[org.hibernate.orm.connections.access][main:6071]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-07-1723:07:43[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6418]-[INFO]HHH000397: Using ASTQueryTranslatorFactory

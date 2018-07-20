@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.qfedu.pojo">
+    <class name="User" table="user">
+        <id name="id">
+            <generator class="native"></generator>
+        </id>
+        <property name="name"></property>
+        <property name="gender"></property>
+        <property name="age"></property>
+
+        <!--一对多关系-->
+        <set name="orders" inverse="true" cascade="save-update" fetch="subselect">
+            <key column="user_id"></key>
+            <one-to-many class="SimpleOrder" />
+        </set>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.qfedu.pojo">
+    <class name="IdCard" table="idcard">
+        <id name="id">
+            <generator class="native"></generator>
+        </id>
+        <property name="cardNum"></property>
+
+        <!--多对一实现一对一关系-->
+        <many-to-one name="person" class="Person" column="person_id" unique="true"></many-to-one>
+        <!--一对一实现主键关联-->
+        <!--
+        <one-to-one name="person" class="Person" constrained="true"></one-to-one>
+        -->
+    </class>
+</hibernate-mapping>

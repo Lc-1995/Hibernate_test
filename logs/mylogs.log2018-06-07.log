@@ -1,0 +1,96 @@
+2018-06-0700:48:12[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0700:48:12[org.hibernate.cfg.Environment][main:16]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0700:48:13[org.hibernate.annotations.common.Version][main:521]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0700:48:15[org.hibernate.orm.connections.pooling][main:2990]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0700:48:15[org.hibernate.orm.connections.pooling][main:3003]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0700:48:15[org.hibernate.orm.connections.pooling][main:3004]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0700:48:15[org.hibernate.orm.connections.pooling][main:3005]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0700:48:15[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3011]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0700:48:16[org.hibernate.dialect.Dialect][main:3771]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0700:48:18[org.hibernate.orm.connections.access][main:5375]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0700:48:19[com.qfedu.pojo.FetchTest][main:6997]-[INFO]执行了。。。。。
+2018-06-0700:48:19[com.qfedu.pojo.FetchTest][main:6997]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0700:52:27[org.hibernate.Version][main:1]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0700:52:27[org.hibernate.cfg.Environment][main:12]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0700:52:27[org.hibernate.annotations.common.Version][main:582]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0700:52:30[org.hibernate.orm.connections.pooling][main:2848]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0700:52:30[org.hibernate.orm.connections.pooling][main:2860]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0700:52:30[org.hibernate.orm.connections.pooling][main:2861]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0700:52:30[org.hibernate.orm.connections.pooling][main:2861]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0700:52:30[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:2867]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0700:52:30[org.hibernate.dialect.Dialect][main:3602]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0700:52:32[org.hibernate.orm.connections.access][main:5084]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0700:52:32[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:5423]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5738]-[INFO]执行了。。。。
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5739]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5739]-[INFO][SimpleOrder{id=20, orderNum='002', productName='Web'}, SimpleOrder{id=19, orderNum='001', productName='Java'}]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5777]-[INFO]User{id=42, name='小红', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5778]-[INFO][]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5783]-[INFO]User{id=43, name='小白', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5784]-[INFO][SimpleOrder{id=23, orderNum='005', productName='Java测试'}, SimpleOrder{id=24, orderNum='006', productName='Web测试'}]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5788]-[INFO]User{id=44, name='小白', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5789]-[INFO][SimpleOrder{id=25, orderNum='007', productName='JavaEE测试'}, SimpleOrder{id=26, orderNum='008', productName='Web第一课'}]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5792]-[INFO]User{id=45, name='小橙', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5793]-[INFO][SimpleOrder{id=28, orderNum='008', productName='Web第二课'}, SimpleOrder{id=27, orderNum='007', productName='JavaEE第一天'}]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5797]-[INFO]User{id=46, name='小橙', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5797]-[INFO][SimpleOrder{id=30, orderNum='008', productName='Web第三课'}, SimpleOrder{id=29, orderNum='007', productName='JavaEE第二天'}]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5802]-[INFO]User{id=47, name='小橙', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5802]-[INFO][]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5805]-[INFO]User{id=49, name='小橙', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5805]-[INFO][SimpleOrder{id=31, orderNum='007', productName='JavaEE第二天'}, SimpleOrder{id=32, orderNum='008', productName='Web第三课'}]
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5810]-[INFO]User{id=50, name='小橙', gender='女', age=18}
+2018-06-0700:52:32[com.qfedu.pojo.FetchTest][main:5810]-[INFO][]
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5814]-[INFO]User{id=51, name='小橙', gender='女', age=18}
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5814]-[INFO][SimpleOrder{id=35, orderNum='009', productName='JavaEE第二天'}, SimpleOrder{id=36, orderNum='010', productName='Web第三课'}]
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5818]-[INFO]User{id=52, name='小橙', gender='女', age=18}
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5818]-[INFO][]
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5823]-[INFO]User{id=53, name='小橙', gender='女', age=18}
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5823]-[INFO][]
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5825]-[INFO]User{id=54, name='小橙', gender='女', age=18}
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5826]-[INFO][SimpleOrder{id=39, orderNum='009', productName='JavaEE第二天'}, SimpleOrder{id=40, orderNum='010', productName='Web第三课'}]
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5834]-[INFO]User{id=55, name='小彩', gender='女', age=18}
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5834]-[INFO][SimpleOrder{id=41, orderNum='010', productName='Web第四课'}, SimpleOrder{id=42, orderNum='009', productName='JavaEE第三天'}]
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5838]-[INFO]User{id=56, name='小青', gender='女', age=18}
+2018-06-0700:52:33[com.qfedu.pojo.FetchTest][main:5839]-[INFO][]
+2018-06-0701:02:35[org.hibernate.Version][main:0]-[INFO]HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-0701:02:35[org.hibernate.cfg.Environment][main:64]-[INFO]HHH000206: hibernate.properties not found
+2018-06-0701:02:36[org.hibernate.annotations.common.Version][main:606]-[INFO]HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-0701:02:39[org.hibernate.orm.connections.pooling][main:3615]-[WARN]HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-0701:02:39[org.hibernate.orm.connections.pooling][main:3627]-[INFO]HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hbmdemo]
+2018-06-0701:02:39[org.hibernate.orm.connections.pooling][main:3628]-[INFO]HHH10001001: Connection properties: {user=root, password=****}
+2018-06-0701:02:39[org.hibernate.orm.connections.pooling][main:3629]-[INFO]HHH10001003: Autocommit mode: false
+2018-06-0701:02:39[org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl][main:3635]-[INFO]HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-06-0701:02:40[org.hibernate.dialect.Dialect][main:4474]-[INFO]HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2018-06-0701:02:41[org.hibernate.orm.connections.access][main:5984]-[INFO]HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa7ae9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-06-0701:02:42[org.hibernate.hql.internal.QueryTranslatorFactoryInitiator][main:6468]-[INFO]HHH000397: Using ASTQueryTranslatorFactory
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6770]-[INFO]执行了。。。。
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6771]-[INFO]User{id=41, name='小黄', gender='男', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6771]-[INFO][SimpleOrder{id=19, orderNum='001', productName='Java'}, SimpleOrder{id=20, orderNum='002', productName='Web'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6881]-[INFO]User{id=42, name='小红', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6881]-[INFO][]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6883]-[INFO]User{id=43, name='小白', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6883]-[INFO][SimpleOrder{id=23, orderNum='005', productName='Java测试'}, SimpleOrder{id=24, orderNum='006', productName='Web测试'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6883]-[INFO]User{id=44, name='小白', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6884]-[INFO][SimpleOrder{id=26, orderNum='008', productName='Web第一课'}, SimpleOrder{id=25, orderNum='007', productName='JavaEE测试'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6884]-[INFO]User{id=45, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6884]-[INFO][SimpleOrder{id=28, orderNum='008', productName='Web第二课'}, SimpleOrder{id=27, orderNum='007', productName='JavaEE第一天'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6884]-[INFO]User{id=46, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6885]-[INFO][SimpleOrder{id=30, orderNum='008', productName='Web第三课'}, SimpleOrder{id=29, orderNum='007', productName='JavaEE第二天'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6885]-[INFO]User{id=47, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6885]-[INFO][]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6885]-[INFO]User{id=49, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6886]-[INFO][SimpleOrder{id=31, orderNum='007', productName='JavaEE第二天'}, SimpleOrder{id=32, orderNum='008', productName='Web第三课'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6886]-[INFO]User{id=50, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6886]-[INFO][]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6886]-[INFO]User{id=51, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6886]-[INFO][SimpleOrder{id=35, orderNum='009', productName='JavaEE第二天'}, SimpleOrder{id=36, orderNum='010', productName='Web第三课'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6887]-[INFO]User{id=52, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6887]-[INFO][]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6887]-[INFO]User{id=53, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6888]-[INFO][]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6888]-[INFO]User{id=54, name='小橙', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6888]-[INFO][SimpleOrder{id=40, orderNum='010', productName='Web第三课'}, SimpleOrder{id=39, orderNum='009', productName='JavaEE第二天'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6888]-[INFO]User{id=55, name='小彩', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6889]-[INFO][SimpleOrder{id=42, orderNum='009', productName='JavaEE第三天'}, SimpleOrder{id=41, orderNum='010', productName='Web第四课'}]
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6889]-[INFO]User{id=56, name='小青', gender='女', age=18}
+2018-06-0701:02:42[com.qfedu.pojo.FetchTest][main:6889]-[INFO][]
